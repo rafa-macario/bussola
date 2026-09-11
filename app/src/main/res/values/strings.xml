@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_nome">Bússola</string>
+
+    <!-- Abertura -->
+    <string name="abertura_assinatura">Precisão financeira</string>
+    <string name="abertura_texto">Cada decisão sobre dinheiro merece o mesmo rigor de um mecanismo calibrado.</string>
+    <string name="abertura_botao">Começar</string>
+
+    <!-- Navegação -->
+    <string name="nav_inicio">Início</string>
+    <string name="nav_simular">Simular</string>
+    <string name="nav_conta">Conta</string>
+    <string name="nav_trilha">Trilha</string>
+    <string name="acao_voltar">Voltar</string>
+
+    <!-- Painel -->
+    <string name="painel_titulo">Indicadores</string>
+    <string name="painel_selic_meta">Selic meta</string>
+    <string name="painel_unidade_ano">%% ao ano</string>
+    <string name="painel_ipca">IPCA mês</string>
+    <string name="painel_selic_mes">Selic no mês</string>
+    <string name="painel_rotativo">Cartão rotativo</string>
+    <string name="painel_comparacao">%1$s vezes a Selic</string>
+    <string name="painel_fonte">Banco Central · %1$s</string>
+    <string name="painel_atualizar">Atualizar</string>
+    <string name="painel_erro">Não foi possível consultar o Banco Central. Verifique a conexão.</string>
+    <string name="painel_tentar">Tentar de novo</string>
+
+    <!-- Simulador -->
+    <string name="simulador_titulo">Simulador</string>
+    <string name="simulador_valor">Valor da dívida</string>
+    <string name="simulador_prazo">Prazo · %1$d meses</string>
+    <string name="simulador_rotativo">Pagando o mínimo</string>
+    <string name="simulador_alternativa">Parcelamento negociado</string>
+    <string name="simulador_parcela">%1$s por mês</string>
+    <string name="simulador_diferenca">A diferença de %1$s é o preço de não ter reserva.</string>
+    <string name="simulador_valor_invalido">Informe um valor maior que zero.</string>
+    <string name="simulador_sem_taxa">Consultando a taxa do rotativo no Banco Central.</string>
+
+    <!-- Orçamento -->
+    <string name="conta_titulo">Minha conta</string>
+    <string name="conta_saldo">Saldo do mês</string>
+    <string name="conta_resumo">Entradas %1$s · Saídas %2$s</string>
+    <string name="conta_vazio">Nenhum lançamento ainda. Comece registrando o que entra.</string>
+    <string name="conta_registrar">Registrar lançamento</string>
+    <string name="conta_descricao">Descrição</string>
+    <string name="conta_valor">Valor</string>
+    <string name="conta_entrada">Entrada</string>
+    <string name="conta_saida">Saída</string>
+    <string name="conta_salvar">Salvar</string>
+    <string name="conta_cancelar">Cancelar</string>
+    <string name="conta_remover">Remover lançamento</string>
+    <string name="conta_erro_descricao">Escreva uma descrição.</string>
+    <string name="conta_erro_valor">Informe um valor maior que zero.</string>
+    <string name="conta_reserva">Guardando %1$s por seis meses você chega a %2$s de reserva.</string>
+
+    <!-- Trilha -->
+    <string name="trilha_titulo">Trilha</string>
+    <string name="trilha_progresso">%1$s de %2$s concluídos</string>
+    <string name="trilha_concluido">Concluído</string>
+    <string name="trilha_continuar">Continuar</string>
+    <string name="trilha_bloqueado">Conclua o módulo anterior</string>
+    <string name="trilha_duracao">%1$d min</string>
+
+    <!-- Lição -->
+    <string name="licao_modulo">Módulo %1$s</string>
+    <string name="licao_questao">Questão %1$d de %2$d</string>
+    <string name="licao_confirmar">Confirmar</string>
+    <string name="licao_proxima">Próxima</string>
+    <string name="licao_concluir">Concluir módulo</string>
+    <string name="licao_escolha">Escolha uma alternativa antes de confirmar.</string>
+    <string name="licao_acerto">Correto.</string>
+    <string name="licao_erro">Ainda não.</string>
+    <string name="licao_final">Módulo concluído. Volte à trilha para seguir.</string>
+</resources>

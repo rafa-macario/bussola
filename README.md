@@ -28,7 +28,7 @@ DataStore, Navigation Compose e JUnit.
 
 ## Equipe
 
-Rafael Macário e colegas de turma.
+Rafael Macário, Guilherme Martins e Ryan Inigo de Paula.
 <!-- Liste aqui o nome (e o GitHub, se quiser) de cada integrante. -->
 
 ---
